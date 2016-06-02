@@ -1,0 +1,17 @@
+#Lab_5 ignore
+*.~cpp
+*.~ddp
+*.~dfm
+*.~h
+*.~bpr
+*.~tds
+*.~Designer
+*.~exe
+*.~vshost
+*.~vshost.exe
+*.~vshost.exe.manifest
+*.~min
+*.~CSharp
+*.~apk
+*.~keystore
+
