@@ -1,0 +1,14 @@
+#Lab_4 ignore
+*.~cpp
+*.~ddp
+*.~dfm
+*.~h
+*.~bpr
+*.~tds
+*.~Designer
+*.~exe
+*.~vshost
+*.~vshost.exe
+*.~vshost.exe.manifest
+*.~min
+

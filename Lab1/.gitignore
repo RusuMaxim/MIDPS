@@ -1,0 +1,7 @@
+#Lab_1 ignore
+*.~cpp
+*.~ddp
+*.~dfm
+*.~h
+*.~bpr
+*.~tds
